@@ -1,0 +1,3 @@
+#add all the files that you dont want to be tracked here
+*~
+tmp/
